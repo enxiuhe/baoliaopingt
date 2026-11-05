@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enxiuhe.github.io/baoliaopingt/sitemap.xml
